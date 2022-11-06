@@ -1,0 +1,24 @@
+.App {
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.App button {
+  padding: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  color: red;
+  border: none;
+  box-shadow: rgba(50, 50, 50, 0.5) 8px 8px 3px;
+}
+
+.App input {
+  padding: 5px;
+  box-shadow: rgba(50, 50, 50, 0.5) 8px 8px 3px;
+  border: none;
+}
+
+.App button:
